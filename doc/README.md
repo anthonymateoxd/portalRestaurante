@@ -1,10 +1,10 @@
 ##  landing page para un restaurante de pizza o comida italiana
 # INTEGRANTES DEL EQUIPO:
-- Hugo  Rolando Chenal.
-- Erick Jose Pablo Cugua
-- Sara Denisse Herrera Mena.
-- Erika Bol Cruz.
-- Fredy Quej Quej.
+- Hugo  Rolando Chenal.  "team leader" (creacion de la estructura basica del proyecto y archivos CSS u JS).
+- Erick Jose Pablo Cugua (Creacion e implementacion de folder img para las imagenes de la pagina web)
+- Sara Denisse Herrera Mena. (Creacion e implementacion de las vistas en HTML).
+- Erika Bol Cruz. (Implementacion de folde y codigo php para un futuro backend)
+- Fredy Quej Quej.  (folder fonts, para las distintas fuetnes del  la pagina web)
 
 # se inicializo  la estructura del proyecto  por hugo chenal
 - se  se asigna las actividades a cad auno de los miembros del equipo.
